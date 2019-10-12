@@ -1,0 +1,7 @@
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\b\CivClass\Debug\netstandard2.0\CivClass.deps.json
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\b\CivClass\Debug\netstandard2.0\CivClass.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\i\CivClass\Debug\netstandard2.0\CivClass.csproj.CoreCompileInputs.cache
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\i\CivClass\Debug\netstandard2.0\CivClass.AssemblyInfoInputs.cache
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\i\CivClass\Debug\netstandard2.0\CivClass.AssemblyInfo.cs
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\i\CivClass\Debug\netstandard2.0\CivClass.csproj.CopyComplete
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\i\CivClass\Debug\netstandard2.0\CivClass.dll

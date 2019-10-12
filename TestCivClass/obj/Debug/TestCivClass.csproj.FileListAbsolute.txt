@@ -1,0 +1,35 @@
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\bin\Debug\TestCivClass.dll
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\bin\Debug\TestCivClass.pdb
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\bin\Debug\CivClass.dll
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\bin\Debug\CivClass.pdb
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\obj\Debug\TestCivClass.csprojAssemblyReference.cache
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\obj\Debug\TestCivClass.csproj.CoreCompileInputs.cache
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\obj\Debug\TestCivClass.csproj.CopyComplete
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\obj\Debug\TestCivClass.dll
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\TestCivClass\obj\Debug\TestCivClass.pdb
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\TestCivClass.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\TestCivClass.pdb
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\CivClass.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\CivClass.pdb
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\obj\Debug\TestCivClass.csprojAssemblyReference.cache
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\obj\Debug\TestCivClass.csproj.CoreCompileInputs.cache
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\obj\Debug\TestCivClass.csproj.CopyComplete
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\obj\Debug\TestCivClass.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\TestCivClass\obj\Debug\TestCivClass.pdb

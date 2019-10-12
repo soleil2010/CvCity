@@ -1,0 +1,10 @@
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\b\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\b\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\b\TestCivClass\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\b\TestCivClass\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\b\TestCivClass\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\b\TestCivClass\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\b\TestCivClass\bin\Debug\TestCivClass.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\i\TestCivClass\Debug\TestCivClass.csproj.CoreCompileInputs.cache
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\i\TestCivClass\Debug\TestCivClass.csproj.CopyComplete
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\.vs\CivClass\lut\0\i\TestCivClass\Debug\TestCivClass.dll

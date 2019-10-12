@@ -1,0 +1,18 @@
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\CivClass\bin\Debug\netstandard2.0\CivClass.deps.json
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\CivClass\bin\Debug\netstandard2.0\CivClass.dll
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\CivClass\bin\Debug\netstandard2.0\CivClass.pdb
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\CivClass\obj\Debug\netstandard2.0\CivClass.csprojAssemblyReference.cache
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\CivClass\obj\Debug\netstandard2.0\CivClass.csproj.CoreCompileInputs.cache
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\CivClass\obj\Debug\netstandard2.0\CivClass.AssemblyInfoInputs.cache
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\CivClass\obj\Debug\netstandard2.0\CivClass.AssemblyInfo.cs
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\CivClass\obj\Debug\netstandard2.0\CivClass.dll
+G:\Jeux\vox populis\DLL\ProjetGitKraken\Cours\Exercice_Class_2\CivClass\CivClass\obj\Debug\netstandard2.0\CivClass.pdb
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\CivClass\bin\Debug\netstandard2.0\CivClass.deps.json
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\CivClass\bin\Debug\netstandard2.0\CivClass.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\CivClass\bin\Debug\netstandard2.0\CivClass.pdb
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\CivClass\obj\Debug\netstandard2.0\CivClass.csprojAssemblyReference.cache
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\CivClass\obj\Debug\netstandard2.0\CivClass.csproj.CoreCompileInputs.cache
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\CivClass\obj\Debug\netstandard2.0\CivClass.AssemblyInfoInputs.cache
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\CivClass\obj\Debug\netstandard2.0\CivClass.AssemblyInfo.cs
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\CivClass\obj\Debug\netstandard2.0\CivClass.dll
+C:\Users\Diogo.VIEIRA-FERREIR\Desktop\prog\csharp\CivClass\CivClass\obj\Debug\netstandard2.0\CivClass.pdb
